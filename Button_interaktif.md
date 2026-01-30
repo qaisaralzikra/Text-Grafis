@@ -1,4 +1,5 @@
-<img width="968" height="528" alt="image" src="https://github.com/user-attachments/assets/55f83b7e-04ff-46bd-9115-2d3a952e1791" />
+<img width="371" height="266" alt="image" src="https://github.com/user-attachments/assets/5df572d4-c49a-4089-888b-708a95dc8b37" />
+<img width="370" height="260" alt="image" src="https://github.com/user-attachments/assets/90680aa6-1a13-4539-ba51-4b0af0b79a88" />
 
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
